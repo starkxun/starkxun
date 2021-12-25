@@ -1,1 +1,65 @@
-<mxfile host="app.diagrams.net" modified="2021-12-25T08:16:07.204Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Ky0zoELZjX0RHeGt-8-y" version="16.1.0" type="github"><diagram id="uTHkHjwx9nv1sM9mcKDM" name="Page-1">7VrbcpswEP0aPabD/fIINmlmnGQyk2mbPKpGATIYUSFiu19fCYQBW3HdxjF2nBcbHbS67O7hrLCBPpotvhKYxzc4RCnQlHAB9DHQNNvR2CcHljVg2EYNRCQJa0htgfvkNxKgItAyCVHR60gxTmmS98EpzjI0pT0MEoLn/W5POO3PmsMIbQD3U5huoj+SkMY16mh2i1+hJIqbmVXLre/MYNNZ7KSIYYjnHUgPgD4iGNP6arYYoZT7rvFLbXf5yt3VwgjK6C4GV4tycvc9vJlM/McJnpbXd0/PF1Y9ygtMS7FhsVi6bDyAQuYQ0cSExjjCGUyDFvUJLrMQ8WkU1mr7XGOcM1Bl4DOidCmiC0uKGRTTWSru1nPyiV7dm4AKXJIp2rIhXeQIJBGiW/qZqwiwzEV4hihZMjuCUkiTl/46oMihaNVPmHqEwGWnQ46TjBadke84wDosmqQWuSDIoOq9kLGLesSm1VlaC1Vh/YcQq+a5xth9Y4w7cfkPtztDeBktEvrAzb+YovXYuTNeiJGrxrJpZGy/D93GYzsCb7ZmVauxGyCiqjZkSPVNIgUm8EfAUfiFZwPH3wh6G1IehXmcUHSfw8obc6aYMpK8IELRYrtTN30gDMz+I2YlpPOOegko7giXobyT05yP9vQxd8xVe8hUlT3zrZQt1895sZTCop7R+lXy+sO/KfAtJjOYthC7isR3ZVjkMGO2Kcyinmlwe/HtXmIW2MA1gK+CwOUXXlAhPnAdEDjAD4Crc9Y4jDgmCCzgOMBVeB/fB57bzMp2X0/8tsVsH43BeYsNTOBVwdgUCcomg1VVQmHrvShs7yOZFJgmUdbrN2UeQWSPGddNK5ZH3mdatWllrNeesrTSDplW6oc7fLi7ljGKPFSH0Qb3CLTBAt4lV4Waso4uYSpXCw84BtcPr5YNJidj4ATnS+J1bdAG1wZVJg4nTeLGfX9n8SuxOtD5UjkVVTY5131XRnGLs9mtj1GM65fny+x1eZYyWz8os9Uj0AlpRddPmaA6QDBhaAXjs+pr0sraJa0OW/XJyo/TFgxtV8HQBxUM7Qj4zLhqAGdc8Zlx29ovMwtahjx8wvon4R5r7k0xQadEXU0ze9TVJW/yVMU8IHU1Wclx2tTd+cWzMSh1JW+ej7PW29RrxvgxcG2uxd4IeFZ1imPdtP1S/5SYvV7rSZmtuYcUZeNUEqyq6NzqfYHL8uqMTwzrpZ08i/ZT2rFm+0eF+ofp9t8eevAH</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-25T08:19:54.915Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="gaVa1h0SiMxoPxUQtqfJ" version="16.1.0" type="github">
+  <diagram id="uTHkHjwx9nv1sM9mcKDM" name="Page-1">
+    <mxGraphModel dx="782" dy="418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HxuKPVdMKKBYKocuLPfj-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HxuKPVdMKKBYKocuLPfj-3" target="HxuKPVdMKKBYKocuLPfj-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HxuKPVdMKKBYKocuLPfj-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HxuKPVdMKKBYKocuLPfj-3" target="HxuKPVdMKKBYKocuLPfj-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HxuKPVdMKKBYKocuLPfj-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="HxuKPVdMKKBYKocuLPfj-3" target="HxuKPVdMKKBYKocuLPfj-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HxuKPVdMKKBYKocuLPfj-3" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="210" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HxuKPVdMKKBYKocuLPfj-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HxuKPVdMKKBYKocuLPfj-5" target="HxuKPVdMKKBYKocuLPfj-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HxuKPVdMKKBYKocuLPfj-5" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;由键盘输入成绩&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="100" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HxuKPVdMKKBYKocuLPfj-7" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;输出成绩&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HxuKPVdMKKBYKocuLPfj-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HxuKPVdMKKBYKocuLPfj-9" target="HxuKPVdMKKBYKocuLPfj-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HxuKPVdMKKBYKocuLPfj-9" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;比较成绩的高低&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="200" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HxuKPVdMKKBYKocuLPfj-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HxuKPVdMKKBYKocuLPfj-10" target="HxuKPVdMKKBYKocuLPfj-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HxuKPVdMKKBYKocuLPfj-10" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;对成绩排序&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="200" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HxuKPVdMKKBYKocuLPfj-11" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;输出排序好的成绩&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HxuKPVdMKKBYKocuLPfj-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HxuKPVdMKKBYKocuLPfj-12" target="HxuKPVdMKKBYKocuLPfj-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HxuKPVdMKKBYKocuLPfj-12" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;复制&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;student&lt;br/&gt;score&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="225" y="310" width="105" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HxuKPVdMKKBYKocuLPfj-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HxuKPVdMKKBYKocuLPfj-13" target="HxuKPVdMKKBYKocuLPfj-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HxuKPVdMKKBYKocuLPfj-13" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;输出字符串&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="310" width="129" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HxuKPVdMKKBYKocuLPfj-14" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;结束&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
