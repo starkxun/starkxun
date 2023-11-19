@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @starkxun
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning Linux,Android and Windows coding,the major is security
+- 👀 I’m interested in coding,but you know,life is not only coding
+- 🌱 I’m currently learning React,Goland,php,python and Android Development
 - 📫 This is my Email: starkxun5215@gmail.com
 
 <!---
